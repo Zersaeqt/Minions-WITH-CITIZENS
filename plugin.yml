@@ -1,0 +1,11 @@
+main: com.bluecreeper111.minions.Main
+author: bluecreeper111
+version: 1.0
+name: Minions
+description: Add minions to your server.
+api-version: 1.13
+depend: [Citizens]
+commands:
+  minion:
+    description: Can be used to give minions to players.
+    usage: /<command>
